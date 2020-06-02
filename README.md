@@ -1,2 +1,2 @@
-# strokunT.github.io
-Мій сайт
+# TarasArt: Мій сайт
+
