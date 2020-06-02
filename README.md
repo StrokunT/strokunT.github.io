@@ -1,2 +1,3 @@
-# TarasArt: Мій сайт
+# TarasArt: 
+Мій сайт
 
